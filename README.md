@@ -20,7 +20,7 @@
   - Escolha de Temas (Claro, Noturno)
   - Adicionei Toast no cadastro de contas, o toast também aparecerar quando a Sala for fechada pelo ADMIN.
   - Agora temos um MODAL, ele é usado quando o ADMIN tenta fechar uma sala, e quando ele tenta apagar uma pergunta.
-  - Também criei uma HIC que estipula a autorização, para entrar na rota "/admin/rooms/:id"
+  - Também criei uma HOC que estipula a autorização, para entrar na rota "/admin/rooms/:id"
 
 ## 🧪 Tecnologias
 
