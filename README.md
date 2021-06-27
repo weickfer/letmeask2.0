@@ -35,8 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/weickfer/letmeask-upgraded
-$ cd letmeask-upgraded
+$ git clone https://github.com/weickfer/letmeask2.0.git
+$ cd letmeask2.0
 ```
 
 Para iniciá-lo, siga os passos abaixo:
