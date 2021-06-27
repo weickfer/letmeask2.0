@@ -7,7 +7,7 @@
 </p>
 <h1>🌙 Modo Noturno 🌙</h1>
 <p align="center">
-    <img alt="Letmeask" src=".github/cover-light.svg" />
+    <img alt="Letmeask" src=".github/cover-dark.svg" />
 </p>
 
 <br>
